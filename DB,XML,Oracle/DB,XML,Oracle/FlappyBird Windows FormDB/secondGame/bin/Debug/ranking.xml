@@ -1,0 +1,27 @@
+<Ranks>
+<Rank>
+<rank>1</rank>
+ <score>2</score>
+ <name>정연우</name>
+ </Rank>
+<Rank>
+<rank>2</rank>
+ <score>0</score>
+ <name>홍길동</name>
+ </Rank>
+<Rank>
+<rank>3</rank>
+ <score>0</score>
+ <name>정연우</name>
+ </Rank>
+<Rank>
+<rank>4</rank>
+ <score>0</score>
+ <name>김동혁</name>
+ </Rank>
+<Rank>
+<rank>5</rank>
+ <score>0</score>
+ <name>정연우</name>
+ </Rank>
+</Ranks>

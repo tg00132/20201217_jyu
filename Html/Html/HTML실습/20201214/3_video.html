@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- 익스플로러에서 한글 깨지는 분은 이 태그 적기 -->
+    <meta charset="utf-8">
+    <title>Document</title>
+    
+  <!-- video-js 사용하기 위해 필요한 것-->
+  <link rel="stylesheet" 
+  href="https://vjs.zencdn.net/7.2.3/video-js.css"/>
+  <script src="https://vjs.zencdn.net/7.2.3/video.js">
+  </script>
+  <!-- video-js 사용하기 위해 필요한 것-->
+</head>
+
+<body>
+    <video src="Wildlife.mp4" controls></video>
+
+    <!-- 여러 가지 확장자에 대한 대비(audio태그와 동일) -->
+
+    <!-- 크기 단위 생략시 px -->
+    <!--  autoplay muted : 자동 재생을 위한 짝꿍 -->
+    <video width="640" height="360" controls autoplay muted>
+        <source src="Wildlife.webm" type="video/webm">
+        <source src="Wildlife.mp4" type="video/mp4">
+    </video>
+
+    
+    <video poster="cslogo.PNG" width="640" height="360" controls >
+        <source src="Wildlife.webm" type="video/webm">
+        <source src="Wildlife.mp4" type="video/mp4">
+    </video>
+
+
+    <h1>video.js 플러그인 적용</h1>
+    <video width="640" height="360" controls 
+    class="video-js" data-setup="{}">
+        <source src="Wildlife.webm" type="video/webm">
+        <source src="Wildlife.mp4" type="video/mp4">
+    </video>
+
+    <h1>범 내려온다 </h1>
+    <!-- <video src="https://youtu.be/SmTRaSg2fTQ"></video> -->
+    <!-- <iframe width="420" height="345" src="https://youtu.be/WSwDUzklSD4">
+    </iframe> -->
+    <iframe width="1000" height="1000" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    </iframe>
+    <iframe width="1000" height="1000" src="https://youtu.be/K_-zwF7Tk3g">
+    </iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/C415drznvhA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MVluFcg5yVE?start=63" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+<!-- 유튜브에서 '공유' 누르고 '퍼가기' 눌러서 있는 태그 복사 -->
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/9HT45YC-06c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+
+</html>

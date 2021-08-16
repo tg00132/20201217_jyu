@@ -1,0 +1,14 @@
+<movies>
+<movie>
+   <movieTitle>Portrait of a Lady on Fire</movieTitle>
+   <movieId>531428</movieId>
+   <movieGenre>Drama</movieGenre>
+   <movieRDate>2019-06-17</movieRDate>
+</movie>
+<movie>
+   <movieTitle>One Cut of the Dead</movieTitle>
+   <movieId>513434</movieId>
+   <movieGenre>Comedy</movieGenre>
+   <movieRDate>2017-11-04 오전 12:00:00</movieRDate>
+</movie>
+</movies>

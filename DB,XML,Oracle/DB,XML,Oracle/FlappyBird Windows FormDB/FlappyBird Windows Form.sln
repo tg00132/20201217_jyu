@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappyBird Windows Form", "FlappyBird Windows Form\FlappyBird Windows Form.csproj", "{6679D1A8-DFA4-4629-8CF4-ACD429DC78B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secondGame", "secondGame\secondGame.csproj", "{92AF1EE2-1051-42E8-9BE6-B89370AC9DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6679D1A8-DFA4-4629-8CF4-ACD429DC78B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6679D1A8-DFA4-4629-8CF4-ACD429DC78B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6679D1A8-DFA4-4629-8CF4-ACD429DC78B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6679D1A8-DFA4-4629-8CF4-ACD429DC78B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92AF1EE2-1051-42E8-9BE6-B89370AC9DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AF1EE2-1051-42E8-9BE6-B89370AC9DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AF1EE2-1051-42E8-9BE6-B89370AC9DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AF1EE2-1051-42E8-9BE6-B89370AC9DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BE709CD-61EE-4C21-8F55-75741C5112BF}
+	EndGlobalSection
+EndGlobal

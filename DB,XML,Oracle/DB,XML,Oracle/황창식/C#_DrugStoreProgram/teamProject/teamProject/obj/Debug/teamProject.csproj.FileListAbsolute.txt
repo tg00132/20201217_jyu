@@ -1,0 +1,14 @@
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\bin\Debug\teamProject.exe.config
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\bin\Debug\teamProject.exe
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\bin\Debug\teamProject.pdb
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.csprojAssemblyReference.cache
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.DrugCompInfo_Form.resources
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.DrugOrderForm.resources
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.UI.EmailForm.resources
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.MainForm.resources
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.MainDrugs.resources
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.Properties.Resources.resources
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.csproj.GenerateResource.cache
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.csproj.CoreCompileInputs.cache
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.exe
+D:\임시\Git\teamPrj\teamProject\210422_teamProject_로그폴더_동일파일통합\teamProject\teamProject\obj\Debug\teamProject.pdb

@@ -1,0 +1,20 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>MySQL for Visual Studio</title>
+</head>
+<body class="vendor-book">
+    <div class="details">
+        <span class="vendor">Oracle</span>
+        <span class="locale">en-us</span>
+        <span class="product">MySQL for Visual Studio</span>
+        <span class="name">MySQL for Visual Studio</span>
+    </div>
+    <div class="package-list">
+        <div class="package">
+            <!-- NOTE: The "name" span value cannot contain any periods! -->
+            <span class="name">MySqlForVisualStudio</span>
+            <a class="current-link" href="MySqlForVisualStudio.mshc">MySqlForVisualStudio.mshc</a>
+        </div>
+    </div>
+</body>
+</html>

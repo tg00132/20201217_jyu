@@ -1,0 +1,12 @@
+C:\Users\KB\Desktop\project\FlappyBird Windows Form\secondGame\bin\Debug\secondGame.exe.config
+C:\Users\KB\Desktop\project\FlappyBird Windows Form\secondGame\bin\Debug\secondGame.exe
+C:\Users\KB\Desktop\project\FlappyBird Windows Form\secondGame\bin\Debug\secondGame.pdb
+C:\Users\KB\Desktop\project\FlappyBird Windows Form\secondGame\obj\Debug\secondGame.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\project\FlappyBird Windows Form\secondGame\obj\Debug\secondGame.Form1.resources
+C:\Users\KB\Desktop\project\FlappyBird Windows Form\secondGame\obj\Debug\secondGame.Properties.Resources.resources
+C:\Users\KB\Desktop\project\FlappyBird Windows Form\secondGame\obj\Debug\secondGame.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\project\FlappyBird Windows Form\secondGame\obj\Debug\secondGame.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\project\FlappyBird Windows Form\secondGame\obj\Debug\secondGame.exe
+C:\Users\KB\Desktop\project\FlappyBird Windows Form\secondGame\obj\Debug\secondGame.pdb
+C:\Users\KB\Desktop\project\FlappyBird Windows Form\secondGame\obj\Debug\secondGame.form2.resources
+C:\Users\KB\Desktop\project\FlappyBird Windows Form\secondGame\obj\Debug\secondGame.Who.resources

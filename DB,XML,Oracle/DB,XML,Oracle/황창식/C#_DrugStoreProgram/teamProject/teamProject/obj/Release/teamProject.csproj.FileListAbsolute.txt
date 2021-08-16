@@ -1,0 +1,17 @@
+C:\Users\KB\Desktop\teamProject\teamProject\bin\Release\teamProject.exe.config
+C:\Users\KB\Desktop\teamProject\teamProject\bin\Release\teamProject.exe
+C:\Users\KB\Desktop\teamProject\teamProject\bin\Release\teamProject.pdb
+C:\Users\KB\Desktop\teamProject\teamProject\obj\Release\teamProject.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\teamProject\teamProject\obj\Release\teamProject.DrugCompInfo_Form.resources
+C:\Users\KB\Desktop\teamProject\teamProject\obj\Release\teamProject.DrugOrderForm.resources
+C:\Users\KB\Desktop\teamProject\teamProject\obj\Release\teamProject.UI.EmailForm.resources
+C:\Users\KB\Desktop\teamProject\teamProject\obj\Release\teamProject.MainForm.resources
+C:\Users\KB\Desktop\teamProject\teamProject\obj\Release\teamProject.MainDrugs.resources
+C:\Users\KB\Desktop\teamProject\teamProject\obj\Release\teamProject.Properties.Resources.resources
+C:\Users\KB\Desktop\teamProject\teamProject\obj\Release\teamProject.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\teamProject\teamProject\obj\Release\teamProject.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\teamProject\teamProject\obj\Release\teamProject.exe
+C:\Users\KB\Desktop\teamProject\teamProject\obj\Release\teamProject.pdb
+C:\Users\tg001\OneDrive\der\바탕 화면\DB,XML,Oracle\DB,XML,Oracle\황창식\C#_DrugStoreProgram\teamProject\teamProject\obj\Release\teamProject.csproj.AssemblyReference.cache
+C:\Users\tg001\OneDrive\der\바탕 화면\DB,XML,Oracle\DB,XML,Oracle\황창식\C#_DrugStoreProgram\teamProject\teamProject\obj\Release\teamProject.exe
+C:\Users\tg001\OneDrive\der\바탕 화면\DB,XML,Oracle\DB,XML,Oracle\황창식\C#_DrugStoreProgram\teamProject\teamProject\obj\Release\teamProject.pdb
